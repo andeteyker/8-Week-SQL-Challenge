@@ -181,6 +181,30 @@ Clique Bait is an online seafood store. In this case study - you are required to
 
 ***
 
+## Case Study #7: Balanced Tree Clothing Co.
+<br>
+<p align="center">
+<img src="https://8weeksqlchallenge.com/images/case-study-designs/7.png" alt="Image" width="500" height="520"/>
+</p>
+<p align="center">
+View the case study <a href="https://8weeksqlchallenge.com/case-study-7/">here</a> and my solution <a href="www.google.com">test</a>
+</p>
+<br>
+
+### Business Task
+
+Balanced Tree Clothing Company prides themselves on providing an optimised range of clothing and lifestyle wear for the modern adventurer!
+
+Danny, the CEO of this trendy fashion company has asked you to assist the team’s merchandising teams analyse their sales performance and generate a basic financial report to share with the wider business.
+
+### Entity Relationship Diagram
+<p align="center">
+<img height="300" src="https://user-images.githubusercontent.com/50221019/204815211-35a56a65-111f-41ec-bb33-aea388bad7e2.png"/>
+</p>
+<p align="center">
+<img width="588" src="https://user-images.githubusercontent.com/50221019/204817779-4766f3ab-ea5c-41d3-8f02-0811a167c7b5.png"/>
+</p>
+
 ## Case Study #8: Fresh Segments
 <br>
 <p align="center">
